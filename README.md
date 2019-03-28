@@ -5,6 +5,7 @@ practica 1 web scraping
   habria que crear un data set con las variables diferentes tipo de polen( se especifica polen), concentracion,tiempo, lugar. 
  2. pagina del supermercado esclat https://www.compraonline.bonpreuesclat.cat/, extraer los productos y precios de articulos en oferta para un periodo de tiempo.
   habria que crear un dataser con las variables, producto, precio, oferta, perdiodo temporal
+  
 HAY QUE INSTALAR LIBRERIAS
 pip install pandas
 pip install requests
@@ -13,8 +14,8 @@ pip install beautifulsoup4
 
 EJECUTAR SCRIPT
 
- 
- Práctica 1: Web scraping
+Práctica 1: Web scraping
+
 Descripción
 Esta práctica se ha realizado bajo el contexto de la asignatura Tipología y ciclo de vida de los datos, perteneciente al Máster en Ciencia de Datos de la Universitat Oberta de Catalunya. En ella, se aplican técnicas de web scraping mediante el lenguaje de programación Python para extraer así datos de la web------ y generar un dataset en formato csv.
 
